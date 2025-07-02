@@ -1,24 +1,35 @@
 <!-- Stylish GitHub Profile README -->
 <div align="center">
+<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
 
-<img src="https://raw.githubusercontent.com/HarshithaAchana/HarshithaAchana/main/assets/banner.png" alt="Harshitha Achana 3D Banner" width="100%" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <b>Hi, I'm Harshitha Achana!</b><br/>
+</p>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshitha+Achana!;Aspiring+Frontend+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+and+UI%2FUX+Explorer+%F0%9F%8C%90;Building+Interactive+UIs+with+HTML%2C+CSS%2C+JS+%F0%9F%92%A1;Learning+React+and+Modern+Web+Design+%F0%9F%92%BB" alt="Typing animation" />
+</p>
+
 ---
 
 ### 👩‍💻 About Me
+🌟 I'm Harshitha, a passionate front-end developer with a love for building clean, modern, and interactive web interfaces.
 
-<div align="center">
+🎓 Currently diving deeper into HTML, JavaScript, and modern UI frameworks.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshitha+Achana!;Web+Developer+%F0%9F%92%BB+from+India;Creative+Coder+%F0%9F%92%A1;UI%2FUX+Explorer+%F0%9F%8C%90;Love+to+build+interactive+UIs+with+HTML+%2B+JS" alt="Typing SVG" />
+💡 Exploring animations, accessibility, and creative front-end designs.
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="coder gif" />
+</p>
 
 ---
 
 🎓 **Aspiring Front-End Developer** with a strong passion for creating interactive, beautiful, and accessible user experiences.
 
-💻 I specialize in building:
+💻 I specialize in:
 - 🌐 **Responsive Web Interfaces**  
 - ⚙️ **Functional UI Components**  
 - ✨ **Creative Animations & Transitions**
@@ -31,14 +42,8 @@
 - Designing better UI/UX using Figma
 
 🧠 Always curious, always learning — I believe great design and code go hand in hand.
-
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshithaAchana&theme=radical&row=1&column=6" />
-</div>
-
----
 
 ### 🚀 My Projects
 
@@ -56,6 +61,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshithaAchana&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithaAchana&layout=compact&theme=radical" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaAchana&theme=dracula" />
 </div>
 
 ---
