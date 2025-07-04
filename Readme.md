@@ -15,7 +15,7 @@
 
 ---
 ### Contacts 
-<p align="left"> <a href="https://www.linkedin.com/in/your-username" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://leetcode.com/your-username/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="mailto:yourmail@example.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.instagram.com/your_username/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/your-username" target="_blank"> <img src="https://www.linkedin.com/in/harshitha-achana-2a5837217/" alt="LinkedIn" /> </a> <a href="https://leetcode.com/u/harshitha_achana/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="mailto:yourmail@example.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://www.instagram.com/your_username/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
 ### 👩‍💻 About Me
 🌟 I'm Harshitha, a passionate front-end developer with a love for building clean, modern, and interactive web interfaces.
