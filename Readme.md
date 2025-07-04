@@ -14,7 +14,7 @@
 </p>
 
 ---
-### Contacts 
+### ✨ Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/harshitha-achana-2a5837217/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
   <a href="https://leetcode.com/u/harshitha_achana/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> 
@@ -84,13 +84,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### ✨ Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-achana-2a5837217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshithaAchana)  
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshiachana@gmail.com)
 
 ---
 
