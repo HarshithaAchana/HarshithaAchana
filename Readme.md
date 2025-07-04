@@ -1,7 +1,7 @@
 <!-- Stylish GitHub Profile README -->
 <div align="center">
 <h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
-<img alt="Banner" width="90%" style="max-width:1000px;" src="https://res.cloudinary.com/harshiachana/image/upload/v1751608076/WhatsApp_Image_2025-07-04_at_11.14.54_adf11d5e_nzwknd.jpg">
+<img alt="Banner" width="90%" style="max-width:1000px;" src="[07-04_at_11.14.54_adf11d5e_nzwknd.jpg](https://res.cloudinary.com/harshiachana/image/upload/v1751610299/main_rwjtdz.jpg)">
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
