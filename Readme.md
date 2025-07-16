@@ -29,7 +29,7 @@
 💡 Exploring animations, accessibility, and creative front-end designs.
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://res.cloudinary.com/harshiachana/video/upload/v1752654494/WhatsApp_Video_2025-07-16_at_13.56.21_cdzyfa.mp4)" width="200" alt="coder gif" />
+  <img src="https://res.cloudinary.com/harshiachana/video/upload/v1752654494/WhatsApp_Video_2025-07-16_at_13.56.21_cdzyfa.mp4" width="200" alt="coder gif"/>
 </p>
 
 ---
