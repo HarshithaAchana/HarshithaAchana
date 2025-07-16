@@ -71,6 +71,7 @@
 | [🏫 University Website](https://github.com/HarshithaAchana/UNIVERSITY-WEBSITE-) | A clean UI for university portal | HTML |
 | [🧮 Calculator](https://github.com/HarshithaAchana/CALCULATOR) | Functional web calculator with beautiful design | HTML |
 | [❓ Quiz App](https://github.com/HarshithaAchana/QUIZ-APP) | JavaScript quiz with UI inspired by GreatStack | JavaScript |
+| [guess game ](https://harshithaachana.github.io/guessing-game/)|A simple number guessing game built with HTML, CSS, and JavaScript.|JavaScript|
 
 ---
 
