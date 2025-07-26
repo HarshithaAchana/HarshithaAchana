@@ -68,8 +68,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🌐 Portfolio Website](https://harshithaachana.github.io/portfolio/) [🔗](https://github.com/HarshithaAchana/portfolio) | Personal portfolio showcasing your skills and projects | HTML, CSS |
-| [📘 Website-Like-Facebook](https://harshithaachana.github.io/WEBSITE-LIKE-FACEBOOK/) [🔗](https://github.com/HarshithaAchana/WEBSITE-LIKE-FACEBOOK) | A social media-style front-end website with login and feed UI | HTML |
-| [🏫 University Website](https://github.com/HarshithaAchana/UNIVERSITY-WEBSITE-) [🔗](https://harshithaachana.github.io/UNIVERSITY-WEBSITE-/) | A clean and structured UI for a university portal | HTML |
+| [📘 Website-Like-Facebook](https://harshithaachana.github.io/WEBSITE-LIKE-FACEBOOK/) [🔗](https://github.com/HarshithaAchana/WEBSITE-LIKE-FACEBOOK) | A social media-style front-end website with login and feed UI | HTML, CSS |
+| [🏫 University Website](https://github.com/HarshithaAchana/UNIVERSITY-WEBSITE-) [🔗](https://harshithaachana.github.io/UNIVERSITY-WEBSITE-/) | A clean and structured UI for a university portal | HTML, CSS|
 | [🧮 Calculator](https://harshithaachana.github.io/CALCULATOR/) [🔗](https://github.com/HarshithaAchana/CALCULATOR) | A functional calculator with a neat user interface | HTML |
 | [❓ Quiz App](https://github.com/HarshithaAchana/QUIZ-APP) [🔗](https://github.com/HarshithaAchana/QUIZ-APP) | A quiz web app with multiple-choice questions and score tracking | JavaScript |
 | [🎯 Guessing Game](https://harshithaachana.github.io/guessing-game/) [🔗](https://github.com/HarshithaAchana/guessing-game) | A simple number guessing game built using HTML, CSS, and JavaScript | JavaScript |
