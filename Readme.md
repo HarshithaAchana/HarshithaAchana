@@ -14,30 +14,18 @@
 </p>
 
 ---
-
 ### ✨ Let's Connect
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshitha-achana-2a5837217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/harshitha_achana/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a> 
-  <a href="mailto:harshiachana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/harshi_0927/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
+  <a href="https://www.linkedin.com/in/harshitha-achana-2a5837217/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+  <a href="https://leetcode.com/u/harshitha_achana/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> 
+  <a href="mailto:harshiachana@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail" /> </a>
+  <a href="https://www.instagram.com/harshi_0927/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white" alt="Instagram" /> </a> </p>
 
 ### 👩‍💻 About Me
+🌟 I'm Harshitha, a passionate front-end developer with a love for building clean, modern, and interactive web interfaces.
 
-🌟 I'm Harshitha, a passionate front-end developer with a love for building clean, modern, and interactive web interfaces.  
-🎓 Currently diving deeper into HTML, JavaScript, and modern UI frameworks.  
+🎓 Currently diving deeper into HTML, JavaScript, and modern UI frameworks.
+
 💡 Exploring animations, accessibility, and creative front-end designs.
 
 <p align="center">
@@ -54,32 +42,39 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ---
 
-🎯 I specialize in:
-- 🌐 **Responsive Web Interfaces**
-- ⚙️ **Functional UI Components**
+🎓 **Aspiring Front-End Developer** with a strong passion for creating interactive, beautiful, and accessible user experiences.
+
+💻 I specialize in:
+- 🌐 **Responsive Web Interfaces**  
+- ⚙️ **Functional UI Components**  
 - ✨ **Creative Animations & Transitions**
 
-🛠️ Currently learning:
-- Advanced JavaScript
-- React.js (soon!)
-- UI/UX principles with Figma
+🎯 My goal is to make every user interaction intuitive, engaging, and delightful.
 
+🛠️ I'm currently working on:
+- Polishing JavaScript mastery
+- Learning modern frameworks (React.js soon!)
+- Designing better UI/UX using Figma
+
+🧠 Always curious, always learning — I believe great design and code go hand in hand.
 ---
+
 
 ### 🚀 My Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🌐 Portfolio Website](https://harshithaachana.github.io/portfolio/) [🔗](https://github.com/HarshithaAchana/portfolio) | Personal portfolio showcasing my skills and projects | HTML, CSS |
-| [📘 Website-Like-Facebook](https://harshithaachana.github.io/WEBSITE-LIKE-FACEBOOK/) [🔗](https://github.com/HarshithaAchana/WEBSITE-LIKE-FACEBOOK) | Social media-style front-end website with login and feed UI | HTML, CSS |
-| [🏫 University Website](https://harshithaachana.github.io/UNIVERSITY-WEBSITE-/) [🔗](https://github.com/HarshithaAchana/UNIVERSITY-WEBSITE-) | Clean and structured UI for a university portal | HTML, CSS |
-| [🧮 Calculator](https://harshithaachana.github.io/CALCULATOR/) [🔗](https://github.com/HarshithaAchana/CALCULATOR) | Functional calculator with a neat user interface | HTML, CSS |
-| [❓ Quiz App](https://your-demo-link-here.com) [🔗](https://github.com/HarshithaAchana/QUIZ-APP) | Quiz app with multiple-choice questions and score tracking | JavaScript |
-| [🎯 Guessing Game](https://harshithaachana.github.io/guessing-game/) [🔗](https://github.com/HarshithaAchana/guessing-game) | Simple number guessing game using HTML, CSS, and JS | JavaScript |
+| [🌐 Portfolio Website](https://harshithaachana.github.io/portfolio/) [🔗](https://github.com/HarshithaAchana/portfolio) | Personal portfolio showcasing your skills and projects | HTML, CSS |
+| [📘 Website-Like-Facebook](https://harshithaachana.github.io/WEBSITE-LIKE-FACEBOOK/) [🔗](https://github.com/HarshithaAchana/WEBSITE-LIKE-FACEBOOK) | A social media-style front-end website with login and feed UI | HTML, CSS |
+| [🏫 University Website](https://github.com/HarshithaAchana/UNIVERSITY-WEBSITE-) [🔗](https://harshithaachana.github.io/UNIVERSITY-WEBSITE-/) | A clean and structured UI for a university portal | HTML, CSS|
+| [🧮 Calculator](https://harshithaachana.github.io/CALCULATOR/) [🔗](https://github.com/HarshithaAchana/CALCULATOR) | A functional calculator with a neat user interface | HTML |
+| [❓ Quiz App](https://github.com/HarshithaAchana/QUIZ-APP) [🔗](https://github.com/HarshithaAchana/QUIZ-APP) | A quiz web app with multiple-choice questions and score tracking | JavaScript |
+| [🎯 Guessing Game](https://harshithaachana.github.io/guessing-game/) [🔗](https://github.com/HarshithaAchana/guessing-game) | A simple number guessing game built using HTML, CSS, and JavaScript | JavaScript |
 
-> 🔧 Replace any `your-demo-link-here.com` with actual links when ready!
+
 
 ---
 
@@ -94,6 +89,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshithaAchana&theme=dracula" />
 </div>
 
+
 ---
 
-> 🚀 *“Great things are done by a series of small things brought together.”* — *Vincent Van Gogh*
+> 🚀 *“Great things are done by a series of small things brought together.”* — Vincent Van Gogh
