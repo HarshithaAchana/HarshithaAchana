@@ -73,6 +73,7 @@
 | [🧮 Calculator](https://harshithaachana.github.io/CALCULATOR/) [🔗](https://github.com/HarshithaAchana/CALCULATOR) | A functional calculator with a neat user interface | HTML |
 | [❓ Quiz App](https://github.com/HarshithaAchana/QUIZ-APP) [🔗](https://github.com/HarshithaAchana/QUIZ-APP) | A quiz web app with multiple-choice questions and score tracking | JavaScript |
 | [🎯 Guessing Game](https://harshithaachana.github.io/guessing-game/) [🔗](https://github.com/HarshithaAchana/guessing-game) | A simple number guessing game built using HTML, CSS, and JavaScript | JavaScript |
+| [📄 llm app](https://github.com/HarshithaAchana/llm-app) [🔗](https://github.com/HarshithaAchana/llm-app) | A simple AI-powered application that lets users ask questions based on uploaded documents like PDFs or text files. It uses Large Language Models (LLMs) to find relevant answers from the documentor or falls back to its own knowledge if the answer isn't found. | Python |
 
 
 
